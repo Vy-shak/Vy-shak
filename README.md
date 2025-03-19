@@ -1,4 +1,4 @@
-# Github-profile
+# About me
 Hello, I'm Vyshak 👋
 About Me
 I'm a passionate full-stack developer from NIT Bhopal. I enjoy building end-to-end web applications and creating seamless user experiences.
